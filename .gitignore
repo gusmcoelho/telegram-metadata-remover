@@ -1,0 +1,5 @@
+*.env
+temp/
+__pycache__/
+test_*.png
+setup_botfather.py
